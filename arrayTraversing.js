@@ -1,3 +1,6 @@
+/*sir i am jest  pull requests 
+ if you don maine
+*/
 
 var arr=[null,-7,63,-25,true,20,0,"",97,'Rijwan'];
 console.log(arr);
